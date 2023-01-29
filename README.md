@@ -13,3 +13,19 @@
     3 - post-processing the retrieval results using global HSV color histograms 
     
     4 - relevance feedback by averaging all the query images 
+
+
+![initial query](/sample query/0query1.jpg "initial query")
+
+
+
+
+
+
+
+
+
+
+
+
+

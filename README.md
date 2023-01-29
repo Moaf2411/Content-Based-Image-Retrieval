@@ -15,11 +15,12 @@
     4 - relevance feedback by averaging all the query images 
 
 
-<img src="/sample query/0query1.jpg" alt="Alt text" title="Optional title">
-
-
-
-
+<img src="/sample query/0query1.jpg" alt="initial query" title="initial query">
+<img src="/sample query/1query1results.jpg" alt="initial query results" title="initial query results">
+<img src="/sample query/feedback1.jpg" alt="first feedback" title="first feedback">
+<img src="/sample query/feedback1result.jpg" alt="first feedback results" title="first feedback results">
+<img src="/sample query/feedback2.jpg" alt="second feedback" title="second feedback">
+<img src="/sample query/feedback2result.jpg" alt="second feedback results" title="second feedback results">
 
 
 

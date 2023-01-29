@@ -15,7 +15,7 @@
     4 - relevance feedback by averaging all the query images 
 
 
-![initial query](/sample query/0query1.jpg "initial query")
+<img src="/sample query/0query1.jpg" alt="Alt text" title="Optional title">
 
 
 
